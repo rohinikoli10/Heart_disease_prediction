@@ -9,7 +9,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/rohinikoli10/Heart_disease_prediction.git
    cd heart-disease-prediction
 
 2. **Install the Required Packages:**
